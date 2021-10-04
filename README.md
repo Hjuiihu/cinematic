@@ -1,6 +1,6 @@
 # 🌙 Cinematic FiveM Script
 
-![image]https://cdn.discordapp.com/attachments/880197795087269919/894683781603143761/github_readme.png
+![image](https://cdn.discordapp.com/attachments/880197795087269919/894683781603143761/github_readme.png)
 
 ## Description
 
