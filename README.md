@@ -13,7 +13,7 @@
 ```
 sh
 cd resources/
-git clone https://github.com/hjuiihu/No-More-Weapons-On-NPC [local]/Cinematic
+git clone https://github.com/hjuiihu/Cinematic [local]/Cinematic
 ```
 
 #### Manualy
